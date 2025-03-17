@@ -22,7 +22,7 @@ Estructura del Proyecto:
 
  Cómo usar la aplicación
 1.	Clonar el repositorio desde GitHub:
-git clone https://
+git clone //https://github.com/HLarez/Challenger-Amigo-secreto.git
 2.	Abrir el archivo index.html en un navegador web o usar Live Server en VS Code.
 3.	Ingresar nombres en el campo de texto y hacer clic en "Añadir".
 4.	Una vez agregados los nombres, hacer clic en "Sortear Amigo" para elegir aleatoriamente un participante.
